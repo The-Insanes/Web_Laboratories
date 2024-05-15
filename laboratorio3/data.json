@@ -1,0 +1,50 @@
+[
+  {
+    "rut": "122121-1",
+    "nombre": "Juan",
+    "edad": 30,
+    "esEstudiante": false,
+    "dirección": {
+      "calle": "Calle Falsa 123",
+      "ciudad": "Madrid",
+      "códigoPostal": "28080"
+    },
+    "hobbies": [
+      "fútbol",
+      "pintura",
+      "lectura"
+    ]
+  },
+  {
+    "rut": "6752121-1",
+    "nombre": "Cluadia",
+    "edad": 56,
+    "esEstudiante": false,
+    "dirección": {
+      "calle": "Calle Falsa 123",
+      "ciudad": "Santiago",
+      "códigoPostal": "546320"
+    },
+    "hobbies": [
+      "plantas",
+      "pintura",
+      "lectura"
+    ]
+  },
+  {
+    "rut": "21120023-5",
+    "nombre": "Matias",
+    "edad": 21,
+    "esEstudiante": true,
+    "dirección": {
+      "calle": "Calle Falsa 123",
+      "ciudad": "Viña del mar",
+      "códigoPostal": "1561065"
+    },
+    "hobbies": [
+      "juegos",
+      "tenis de mesa",
+      "lectura"
+    ]
+  }
+]
